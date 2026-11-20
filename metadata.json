@@ -1,0 +1,6 @@
+{
+  "name": "LSP UNINDRA - Sistem Informasi Sertifikasi Profesi",
+  "description": "Sistem Informasi Sertifikasi Profesi Lembaga Sertifikasi Profesi Universitas Indraprasta PGRI dengan Landing Page, Portal Asesi & Asesor, serta Dashboard Manajemen APL, MAPA, AK, IA, dan Sertifikat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
